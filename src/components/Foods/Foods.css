@@ -1,0 +1,14 @@
+.foods-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.food-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.cart-container{
+    background-color: lightsteelblue;
+    padding: 20px;
+    text-align: center;
+}

@@ -1,0 +1,14 @@
+.food-item{
+    width: 270px;
+    background-color: lightgoldenrodyellow;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border: 2px solid lightgray;
+}
+
+.food-item img{
+    width: 250px;
+    margin: 10px;
+    border-radius: 10px;
+}
